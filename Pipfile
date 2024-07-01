@@ -13,6 +13,8 @@ ipdb = "0.13.9"
 pytest = "7.1.3"
 sqlalchemy-serializer = "*"
 flask-restful = "*"
+Werkzeug = "2.2.2"  
+SQLAlchemy = "1.4.47"
 
 [requires]
-python_full_version = "3.8.13"
+python_full_version = "3.10.12"
